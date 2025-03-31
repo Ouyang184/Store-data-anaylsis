@@ -1,0 +1,26 @@
+Column Name,Dictionary 
+Store Data,
+store_id,Unique ID for each store
+store_zip,Zip Code of each store
+store_market,Metropolitan Market area of each store
+store_size,Square footage of each store
+opening_date,Date the store opened 
+num_staff,Number of Employees at each store
+Item Data,
+item_id,Unique ID for each item
+parent_dept,"Department of Item (Mens, Womens, etc)"
+parent_category,"Category of Item (Footwear, Outerwear, Tops, etc)"
+parent_subcategory,"Subcategory of Item (Sneakers, Coats, Blouses, etc)"
+brand,Brand of Item
+Item Data,
+comp_store_id,Unique ID for each competitor store
+competitor_name,Name of Competitor Store
+comp_market,Metropolitan Market area of each competitor store
+comp_sqft,Square footage of each competitor store
+comp_distance,Distance in Miles of Competitor to our nearest store
+opening_day,Date of Competitor store opening (YYYY-MM-DD)
+Customer Data,
+customer_id,Unique ID for each customer
+loyalty,measure of customer loyalty represented as a percentage; indicates the likelihood of a customer continuing to engage with our stores and repeat purchases
+age,age of primary customer
+Income,Annual household income of customer 
